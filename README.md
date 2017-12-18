@@ -2,7 +2,7 @@
 
 # Як грати в камінь – ножиці – папір-ящірка – Спок?
 
-[](https://github.com/Yulia45/HelloGitHub89/blob/master/RockPaperScissorsLizardSpock/rps.jpg)
+![](https://github.com/Yulia45/HelloGitHub89/blob/master/RockPaperScissorsLizardSpock/rps.jpg)
 1.	Дізнайтеся, як грати в камінь-ножиці-папір. Це основа даної  [гри](https://lifehacker.ru/2014/05/12/kak-vsegda-vyigryvat-v-kamen-nozhnicy-bumaga/) 
 
 2.	Дізнайтеся, як робити «зброю» з допомогою рук. Знаки включають наступне: Камінь – стиснутий кулак. Ножиці – стисніть долоню і виставте вказівний і середній палець. Папір – випряміть всі пальці. Ящірка – всі пальці повинні бути випрямлені і зігнуті у вигляді чашки, при цьому великий палець повинен бути нижче інших, щоб було схоже на ляльку. Спок – зробіть так, як робить [ГЕРОЙ ЗОРЯНИХ ВІЙН!](https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%BB%D1%8E%D1%82)
